@@ -41,7 +41,7 @@ function App() {
   return (
     <div className="container py-5 text-center">
       {/* Header */}
-      <h1 className="mb-4 display-4 fw-bold text-primary">AI Image Generation App</h1>
+      <h1 className="mb-4 display-4 fw-bold text-primary">Mujju-AI-Image-Generation App</h1>
 
       {/* Prompt Note */}
       <div className="mb-4">
